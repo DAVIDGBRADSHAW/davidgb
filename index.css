@@ -1,0 +1,11 @@
+.div p{
+    color: aquamarine;
+}
+
+.span {
+    color: #00ff00;
+}
+
+div p span {
+    color: pink;
+}
